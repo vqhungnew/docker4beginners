@@ -1,3 +1,4 @@
+This is a DEMO & SIMPLE web page to test GIT CLONE for Docker projects only.
 Some command and notes for beginners:
 - **docker compose up --build**:
    +  Move to the project folder before run this command.
